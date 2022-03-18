@@ -1,7 +1,7 @@
 Principal Component Aanalysis
 =============================
 
-.. figure:: vertopal_6c1bced697934b96a91873f6939c000e/604bcba07a4b5c283c3f84be0e30ecb20dbca7e8.png
+.. figure:: https://drive.google.com/uc?export=view&id=1E7Z44cJSaA6bpEmlsH5RnMab8bMITRrr
    :alt: Image1
 
    Image1
