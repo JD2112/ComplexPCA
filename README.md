@@ -1,4 +1,5 @@
 # Principal Component Aanalysis 
+[![DOI](https://zenodo.org/badge/358303913.svg)](https://zenodo.org/doi/10.5281/zenodo.11104256)
 
 ![Image1](https://drive.google.com/uc?export=view&id=1E7Z44cJSaA6bpEmlsH5RnMab8bMITRrr)
 
