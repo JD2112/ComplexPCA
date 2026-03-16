@@ -1,13 +1,14 @@
 Package: ComplexPCA
-Type: Package
 Title: A ggplot PCA with complex annotation
 Version: 0.1.0
-Authors@R: person("Jyotirmoy", "Das", email = "jyotirmoy21@gmail.com", role = c("aut", "cre"))
+Authors@R: 
+    person("Jyotirmoy", "Das", , "jyotirmoy21@gmail.com", role = c("aut", "cre"))
 Description: An R package to generate a PCA biplot with customized complex annotations using ggplot2, FactoMineR, and factoextra.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.2.3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
 Imports:
     ggplot2,
     FactoMineR,
